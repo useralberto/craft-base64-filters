@@ -1,0 +1,51 @@
+{
+  "name": "useralberto/craft-base64-filters",
+  "description": "The plugin adds filters to Twig to encode and decode a string in base64.",
+  "type": "craft-plugin",
+  "license": "mit",
+  "support": {
+    "email": "lalonso.dev@gmail.com",
+    "issues": "https://github.com/useralberto/craft-base64-filters/issues?state=open",
+    "source": "https://github.com/useralberto/craft-base64-filters",
+    "docs": "https://github.com/useralberto/craft-base64-filters",
+    "rss": "https://github.com/useralberto/craft-base64-filters/releases.atom"
+  },
+  "require": {
+    "php": ">=8.0.2",
+    "craftcms/cms": "^4.3.6.1"
+  },
+  "require-dev": {
+    "craftcms/ecs": "dev-main",
+    "craftcms/phpstan": "dev-main"
+  },
+  "autoload": {
+    "psr-4": {
+      "useralberto\\craftbase64filters\\": "src/"
+    },
+    "files": [
+      "src/functions.php"
+    ]
+  },
+  "extra": {
+    "handle": "base64-filters",
+    "name": "Base64 filters",
+    "developer": "useralberto",
+    "documentationUrl": "https://github.com/useralberto/craft-base64-filters",
+    "class": "useralberto\\craftbase64filters\\Base64Filters"
+  },
+  "scripts": {
+    "check-cs": "ecs check --ansi",
+    "fix-cs": "ecs check --ansi --fix",
+    "phpstan": "phpstan --memory-limit=1G"
+  },
+  "config": {
+    "sort-packages": true,
+    "platform": {
+      "php": "8.0.2"
+    },
+    "allow-plugins": {
+      "yiisoft/yii2-composer": true,
+      "craftcms/plugin-installer": true
+    }
+  }
+}
