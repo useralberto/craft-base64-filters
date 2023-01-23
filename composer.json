@@ -2,15 +2,22 @@
   "name": "useralberto/craft-base64-filters",
   "description": "The plugin adds filters to Twig to encode and decode a string in base64.",
   "type": "craft-plugin",
-  "license": "mit",
+  "license": "MIT",
   "version": "1.0.0",
   "keywords": [
-        "craft",
-        "cms",
-        "craftcms",
-        "craft-plugin",
-        "encode",
-        "decode"
+    "craft",
+    "cms",
+    "craftcms",
+    "craft-plugin",
+    "encode",
+    "decode"
+  ],
+  "authors": [
+    {
+      "name": "Lucas A Alonso Cruz",
+      "email": "lalonso.dev@gmail.com",
+      "homepage": "https://github.com/useralberto"
+    }
   ],
   "support": {
     "email": "lalonso.dev@gmail.com",
