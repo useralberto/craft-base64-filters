@@ -1,10 +1,1 @@
-<svg width="250" height="250" xmlns="http://www.w3.org/2000/svg">
- <title>Base64</title>
-
- <g>
-  <title>Layer 1</title>
-  <rect stroke="#000" rx="50" id="svg_6" height="248.00002" width="246.99999" y="0.99999" x="1.5" stroke-width="0" fill="#0072bc"/>
-  <ellipse stroke="#000" ry="92.99999" rx="96.5" id="svg_2" cy="122.99999" cx="125" stroke-width="0" fill="#ffffff"/>
-  <text font-style="normal" font-weight="normal" transform="matrix(4.37381 0 0 3.90755 -1034.77 -469.397)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Montserrat Thin'" font-size="24" id="svg_1" y="159.05795" x="252.81949" stroke-width="0" fill="#0072bc">64</text>
- </g>
-</svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250" width="250" height="250"><style>.a{fill:#0072bc}.b{fill:#fff}.c{paint-order:stroke fill markers;stroke:#000;stroke-width: 0;stroke-linejoin: round;;fill:#0072bc}</style><path class="a" d="m1.5 51c0-27.6 22.4-50 50-50h147c27.6 0 50 22.4 50 50v148c0 27.6-22.4 50-50 50h-147c-27.6 0-50-22.4-50-50z"/><path class="b" d="m125 218c-53.4 0-96.5-41.6-96.5-93 0-51.4 43.1-93 96.5-93 53.4 0 96.5 41.6 96.5 93 0 51.4-43.1 93-96.5 93z"/><path class="c" d="m91.7 121.1q-7 0-11.1 4.3-4.1 4.2-4.1 11.7 0 7.3 4.1 11.6 4.1 4.3 11.1 4.3 6.9 0 11-4.3 4.1-4.3 4.1-11.6 0-7.5-4.1-11.7-4.1-4.3-11-4.3zm20.5-29v8.5q-3.9-1.7-7.9-2.5-3.9-0.9-7.8-0.9-10.3 0-15.7 6.2-5.4 6.1-6.2 18.6 3.1-3.9 7.6-6 4.6-2.2 10.1-2.2 11.5 0 18.2 6.3 6.7 6.2 6.7 17 0 10.5-7 16.9-7 6.3-18.5 6.3-13.3 0-20.3-9-7.1-9.2-7.1-26.4 0-16.2 8.7-25.8 8.6-9.7 23.1-9.7 3.9 0 7.8 0.7 4 0.7 8.3 2zm51.3 43.1v-36.5l-26.2 36.5zm-34.5-1.2l31.8-43.4h13v44.6h11v7.7h-11v16.1h-10.3v-16.1h-34.5z"/></svg>
