@@ -3,6 +3,15 @@
   "description": "The plugin adds filters to Twig to encode and decode a string in base64.",
   "type": "craft-plugin",
   "license": "mit",
+  "version": "1.0.0",
+  "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "encode",
+        "decode"
+  ],
   "support": {
     "email": "lalonso.dev@gmail.com",
     "issues": "https://github.com/useralberto/craft-base64-filters/issues?state=open",
@@ -13,10 +22,6 @@
   "require": {
     "php": ">=8.0.2",
     "craftcms/cms": "^4.3.6.1"
-  },
-  "require-dev": {
-    "craftcms/ecs": "dev-main",
-    "craftcms/phpstan": "dev-main"
   },
   "autoload": {
     "psr-4": {
