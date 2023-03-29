@@ -3,7 +3,7 @@
   "description": "The plugin adds filters to Twig to encode and decode a string in base64.",
   "type": "craft-plugin",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "craft",
     "cms",
