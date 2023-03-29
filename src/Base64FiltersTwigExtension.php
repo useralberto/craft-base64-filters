@@ -36,7 +36,6 @@ class Base64FiltersTwigExtension extends AbstractExtension
       new TwigFilter("base64enc", fn(string $str) => stringEnc($str)),
       new TwigFilter("base64dec", fn(string $str) => stringDec($str)),
       new TwigFilter("base64encry", fn(string $str) => stringEncry($str)),
-      new TwigFilter("base64encry", fn(string $str) => stringEncry($str)),
       new TwigFilter("base64decry", fn(string $str) => stringDecry($str)),
     ];
   }
